@@ -1,35 +1,68 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
+date: 2015-01-23T04:25:37+08:00
+author: Anthony
 permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+Welcome to my blog. I post technical learnings, useful snippets, and opinions related to software development. Hopefully you find something useful here.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+&#8212; Anthony  
+[  
+<img title="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" src="http://stackexchange.com/users/flair/1189505.png" alt="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" width="208" height="58" />  
+](http://stackexchange.com/users/1189505)
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<!--Form with header-->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
-<h4>Questions or bug reports?</h4>
+<form action="https://usebasin.com/f/59e948069aee" method="post">
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
+<div class="card border-secondary rounded-0">
+    <div class="card-header p-0">
+        <div class="bg-secondary text-white text-center py-2">
+            <h3><i class="fa fa-envelope"></i> Contact Me</h3>
+            <p class="m-0">Let's chat... asynchronously</p>
+        </div>
+    </div>
+    <div class="card-body p-3">
+
+<div class="form-group">
+<div class="input-group mb-2">
+    <div class="input-group-prepend">
+        <div class="input-group-text"><i class="fa fa-user text-default"></i></div>
+    </div>
+    <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
+</div>
+</div>
+<div class="form-group">
+<div class="input-group mb-2">
+    <div class="input-group-prepend">
+        <div class="input-group-text"><i class="fa fa-envelope text-default"></i></div>
+    </div>
+    <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+</div>
 </div>
 
-<div class="col-md-4">
+<div class="form-group">
+    <div class="input-group mb-2">
+        <div class="input-group-prepend">
+            <div class="input-group-text"><i class="fa fa-comment text-default"></i></div>
+        </div>
+        <textarea class="form-control" placeholder="Comments..." name="comments" required></textarea>
+    </div>
+</div>
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
+<div class="text-center">
+    <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
+    <br>
+    <input type="submit" value="Send it!" class="btn btn-secondary btn-block rounded-0 py-2">
 </div>
 </div>
+
 </div>
+</form>
+<!--Form with header-->
