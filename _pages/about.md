@@ -9,16 +9,16 @@ comments: true
 
 Welcome to my blog. I post technical learnings, useful snippets, and opinions related to software development. Hopefully you find something useful here.
 
-&#8212; Anthony  
-[  
-<img title="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" src="http://stackexchange.com/users/flair/1189505.png" alt="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" width="208" height="58" />  
+&#8212; Anthony
+[
+<img title="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" src="http://stackexchange.com/users/flair/1189505.png" alt="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" width="208" height="58" />
 ](http://stackexchange.com/users/1189505)
 
 
 <!--Form with header-->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
-<form action="https://usebasin.com/f/59e948069aee" method="post">
+<form action="https://staging.usebasin.com/f/f682935d7438" method="post">
 
 
 <div class="card border-secondary rounded-0">
