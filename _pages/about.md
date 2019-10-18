@@ -53,6 +53,7 @@ Welcome to my blog. I post technical learnings, useful snippets, and opinions re
             <div class="input-group-text"><i class="fa fa-comment text-default"></i></div>
         </div>
         <textarea class="form-control" placeholder="Comments..." name="comments" required></textarea>
+        <input type="hidden" id="custId" name="test" value="">
     </div>
 </div>
 
