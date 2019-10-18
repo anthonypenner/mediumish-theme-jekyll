@@ -7,13 +7,11 @@ permalink: /about
 comments: true
 ---
 
-Welcome to my blog. I post technical learnings, useful snippets, and opinions related to software development. Hopefully you find something useful here.
-
-&#8212; Anthony
-[
-<img title="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" src="http://stackexchange.com/users/flair/1189505.png" alt="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" width="208" height="58" />
+[<img title="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" src="http://stackexchange.com/users/flair/1189505.png" alt="profile for penner on Stack Exchange, a network of free, community-driven Q&A sites" width="208" height="58" />
 ](http://stackexchange.com/users/1189505)
 
+<p>Nice to meet you. I post technical learnings, useful snippets, and opinions related to software development. Hopefully you find something useful here.</p>
+<p>Feel free to contact me below.</p>
 
 <!--Form with header-->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -21,11 +19,10 @@ Welcome to my blog. I post technical learnings, useful snippets, and opinions re
 <form action="https://staging.usebasin.com/f/f682935d7438" method="post">
 
 
-<div class="card border-secondary rounded-0">
+<div class="card rounded-0" style='max-width: 500px;'>
     <div class="card-header p-0">
-        <div class="bg-secondary text-white text-center py-2">
-            <h3><i class="fa fa-envelope"></i> Contact Me</h3>
-            <p class="m-0">Let's chat... asynchronously</p>
+        <div class="text-center py-2">
+            <h5><i class="fa fa-envelope"></i> Contact</h5>
         </div>
     </div>
     <div class="card-body p-3">
