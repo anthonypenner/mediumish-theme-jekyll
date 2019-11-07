@@ -16,8 +16,7 @@ comments: true
 <!--Form with header-->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
-<form action="https://staging.usebasin.com/f/f682935d7438" method="post">
-
+<form action="https://usebasin.com/f/59e948069aee" enctype="multipart/form-data" method="POST">
 
 <div class="card rounded-0" style='max-width: 500px;'>
     <div class="card-header p-0">
@@ -51,6 +50,12 @@ comments: true
         </div>
         <textarea class="form-control" placeholder="Comments..." name="comments" required></textarea>
         <input type="hidden" id="custId" name="test" value="">
+    </div>
+</div>
+
+<div class="form-group">
+    <div class="input-group mb-2">
+        <input type="file" name="attachment" />
     </div>
 </div>
 
